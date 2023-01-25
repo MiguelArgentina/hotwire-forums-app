@@ -77,3 +77,4 @@ end
 gem "hotwire-rails", "~> 0.1.3"
 
 gem "devise", "~> 4.8"
+gem 'pry-rails'
